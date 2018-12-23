@@ -1,0 +1,9 @@
+{
+  "name": "number-guesser",
+  "version": "1.0.0",
+  "description": "A small app that makes you guess a random number.",
+  "main": "app.js",
+  "repository": "\"https://github.com/danielsmits/number-guesser.git\"",
+  "author": "DanielSmits <info@agileproduction.nl>",
+  "license": "MIT"
+}
